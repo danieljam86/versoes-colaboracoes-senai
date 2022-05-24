@@ -16,3 +16,5 @@ foreach(var valor in array)
 }
 
 Console.WriteLine($"Total: {total}");
+
+Directory.CreateDirectory("/.gitignore.txt");
