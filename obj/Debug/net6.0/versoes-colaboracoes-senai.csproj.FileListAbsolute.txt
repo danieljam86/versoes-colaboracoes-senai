@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\bin\Debug\net6.0\versoes-colaboracoes-senai.exe
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\bin\Debug\net6.0\versoes-colaboracoes-senai.deps.json
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\bin\Debug\net6.0\versoes-colaboracoes-senai.runtimeconfig.json
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\bin\Debug\net6.0\versoes-colaboracoes-senai.dll
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\bin\Debug\net6.0\versoes-colaboracoes-senai.pdb
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.AssemblyInfo.cs
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.dll
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\refint\versoes-colaboracoes-senai.dll
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.pdb
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\versoes-colaboracoes-senai.genruntimeconfig.cache
+C:\Users\danie\Documents\_git\versoes-colaboracoes-senai\obj\Debug\net6.0\ref\versoes-colaboracoes-senai.dll
