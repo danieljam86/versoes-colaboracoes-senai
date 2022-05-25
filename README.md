@@ -17,7 +17,7 @@ O commit foi realizado utilizando os seguintes comandos:
 
 5. Realizado um gti commit -m 'Modificação do arquivo README.md por outro desenvolvedor
 
-6. Por fim, realizado o envio da modificação através do seguinte comando git push origin nova-branch-colaboracao
+6. Por fim, realizado o envio da modificação através do seguinte comando git push -u origin nova-branch-colaboracao
 
 
 
