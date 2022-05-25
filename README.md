@@ -1,9 +1,9 @@
 # versoes-colaboracoes-senai
 Estudos Senai
 
-Esse teste é a simulação que outro desenvolverdor fez um commit.
+Esse teste é a simulação de que outro desenvolvedor fez uma alteração.
 
-O commit foi realizado utilizando os seguintes comandos:
+A alteração/atualização foi realizado utilizando os seguintes comandos:
 
 1. Alteração no arquivo README.md com este texto
 
